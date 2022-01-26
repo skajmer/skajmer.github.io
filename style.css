@@ -151,3 +151,6 @@ a:hover {
 #mode:hover {
     filter: invert(56%) sepia(45%) saturate(6917%) hue-rotate(173deg) brightness(96%) contrast(82%) !important
 }
+@media screen and (min-width:320px) and (max-width:1081px) {
+test
+}
