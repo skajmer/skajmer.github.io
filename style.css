@@ -10,7 +10,7 @@ body {
     text-align: center;
     font-family: 'Share', monospace;
 }
- {
+@media (max-width: 550px) {
     .info, hr
     {
         margin: auto;
@@ -18,6 +18,11 @@ body {
     .watch, .social, .dev, .linux {
         flex-direction: column;
         width: auto;
+#greeting {
+    font-size: 34px;
+    font-weight: 100;
+    color: #dee3de;
+}
     }
 }
 /* DuckDuckGo Search Bar */
