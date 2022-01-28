@@ -10,7 +10,7 @@ body {
     text-align: center;
     font-family: 'Share', monospace;
 }
-@media all and (max-width: 550px) {
+ {
     .info, hr
     {
         visibility: hidden;
