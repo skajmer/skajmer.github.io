@@ -18,11 +18,6 @@ body {
     .watch, .social, .dev, .linux {
         flex-direction: column;
         width: auto;
-#greeting {
-    font-size: 34px;
-    font-weight: 100;
-    color: #dee3de;
-}
     }
 }
 /* DuckDuckGo Search Bar */
@@ -85,7 +80,7 @@ a:hover {
     color: #97cdfd !important
 }
 #greeting {
-    font-size: 38px;
+    font-size: 2vw;
     font-weight: 100;
     color: #dee3de;
 }
